@@ -124,3 +124,12 @@ margin-bottom: 50px;
   float: left;
   margin-right:5%;
 }
+a{
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover{
+  color:#3EC1D3;
+
+}
